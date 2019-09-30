@@ -8,3 +8,6 @@
   
   404.html is the aidswidjaja/ 404 page in HTML format
   
+  
+## With credit to Adrian's HTML5 Boilerplate (also by me!)
+  
