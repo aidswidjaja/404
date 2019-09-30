@@ -1,7 +1,5 @@
 # Adrian's 404 Pages
 
-/
-
   404bp.md is the Adrian's HTML5 Boilerplate 404 page in Markdown format
   
   404bp.html is the Adrian's HTML5 Boilerplate 404 page in HTML format
