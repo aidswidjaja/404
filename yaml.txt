@@ -8,5 +8,7 @@ if using Jekyll Markdown:
 
 ---
 title: 404 Error
+layout: default
+nav_exclude: true
 permalink: /404.html
 ---
